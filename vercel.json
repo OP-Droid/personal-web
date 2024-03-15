@@ -1,7 +1,7 @@
 {
   "functions": {
     "api": {
-      "runtime": "@vercel/php@0.1.0"
+      "handler": "index.php"
     }
   }
 }
